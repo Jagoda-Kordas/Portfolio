@@ -1,5 +1,13 @@
 # Portfolio
-My Tester's Portfolio
+**My Tester's Portfolio.**
+
+This is the place where I add information about my skills, achievements, work results. I upload here created documentations and projects in which I am participate.
+
+I would like to keep all topic related to software testing in one place.
+
+I hope this place will be my Tester showcase, which will develop together with me :) If you have any advice or observations for my work, please leave me the feedback. I will appreciate it very much.
+
+
 
 ## About me
 For 3 years I've been running my own business based on Virtual Reality and I've been organizing VR zones for events. I would like to develop my company about creating VR and AR applications. I am just working on it. IT and new technologies are very close to me that's why I decided to develop in this field. 
