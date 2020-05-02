@@ -11,3 +11,13 @@ Currently I am taking part in 2 testing projects conducting by Cherry-IT. I am d
 * WHO - MyHealth
 
 I am currently looking for a place where I can develop as a tester. I am ready for new challenges.
+
+## Bug reports
+
+### [ProteGO Safe](https://www.gov.pl/web/cyfryzacja/protego-safe--pobierz-zainstaluj-przetestuj)
+[Bugs reported for mobile aplication ProteGO Safe.](https://quac.org/projects/SafeSafe/Mantis/print_all_bug_page_word.php?search=&sort=last_updated&dir=ASC&type_page=html&export=-1&show_flag=0&filter=5ead6c8fad34b)
+
+Bugs were reported to MantisBT. All team is working together on one project in MantisBT. We add comments, informations about reproduction and other important issues.
+
+Previously, before merge with ProteGO Safe, the testing project was based on application Safe Safe. It is the reason why the name of project in MantisBT is different.
+
