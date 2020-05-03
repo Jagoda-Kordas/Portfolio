@@ -5,7 +5,8 @@ This is the place where I add information about my skills, achievements, work re
 
 I would like to keep all topic related to software testing in one place.
 
-I hope this place will be my Tester showcase, which will develop together with me :) If you have any advice or observations for my work, please leave me the feedback. I will appreciate it very much.
+I hope this place will be my Tester showcase, which will develop together with me :) 
+If you have any advice or observations for my work, please leave me the feedback. I will appreciate it very much.
 
 
 
@@ -18,7 +19,7 @@ Currently I am taking part in 2 testing projects conducting by Cherry-IT. I am d
 * ProteGO Safe
 * WHO - MyHealth
 
-I am currently looking for a place where I can develop as a tester. I am ready for new challenges.
+I am looking for a place where I can develop as a tester. I am ready for new challenges.
 
 ## Bug reports
 
