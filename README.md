@@ -26,7 +26,7 @@ I am currently looking for job opportunities that will enable me to develop as a
 ## Bug reports
 
 ### [ProteGO Safe](https://www.gov.pl/web/cyfryzacja/protego-safe--pobierz-zainstaluj-przetestuj)
-[Bugs reported for mobile aplication ProteGO Safe.](https://quac.org/projects/SafeSafe/Mantis/print_all_bug_page_word.php?search=&sort=last_updated&dir=ASC&type_page=html&export=-1&show_flag=0&filter=5ead6c8fad34b)
+[Bugs reported for mobile aplication ProteGO Safe.](https://quac.org/projects/SafeSafe/Mantis/print_all_bug_page_word.php?search=&sort=last_updated&dir=ASC&type_page=html&export=-1&show_flag=0&filter=5ed7fe98a2af8)
 
 Bugs were reported to MantisBT. All team is working together on one project in MantisBT. We add comments, informations about reproduction and other important issues.
 
