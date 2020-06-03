@@ -23,19 +23,19 @@ Moreover I am active  on the uTest platform.
 
 I am currently looking for job opportunities that will enable me to develop as a Tester. I am ready for new challenges.
 
-## Bug reports
+## Documentation
+* [Analysis](https://drive.google.com/file/d/1giQpUc1SB0yaXQoUKSn6QgwhPFaSn5sO/view?usp=sharing)
+* [Test plan](https://drive.google.com/file/d/1mkY2TI3Wjn7Kq_oddpLk1MUBRFJjDmnC/view?usp=sharing)
+* [Report](https://drive.google.com/file/d/1R4Q8HvhS2BnDTbke5mW22ZvfW2rQ4ez3/view?usp=sharing) Attachments to the report [My bugs - DONE](https://drive.google.com/file/d/1ji24b1_wIOoklRo5J0TV5_UWLBL2Zkhb/view?usp=sharing), [My bugs - TO DO](https://drive.google.com/file/d/1sQDjFO4chLuCdAcFEWPvR9CPCmPoAaIo/view?usp=sharing)
+* [Bugs reported for mobile aplication ProteGO Safe.](https://quac.org/projects/SafeSafe/Mantis/print_all_bug_page_word.php?search=&sort=last_updated&dir=ASC&type_page=html&export=-1&show_flag=0&filter=5ed7fe98a2af8)
 
-### [ProteGO Safe](https://www.gov.pl/web/cyfryzacja/protego-safe--pobierz-zainstaluj-przetestuj)
-[Bugs reported for mobile aplication ProteGO Safe.](https://quac.org/projects/SafeSafe/Mantis/print_all_bug_page_word.php?search=&sort=last_updated&dir=ASC&type_page=html&export=-1&show_flag=0&filter=5ed7fe98a2af8)
-
-Bugs were reported to MantisBT. All team is working together on one project in MantisBT. We add comments, informations about reproduction and other important issues.
+Bugs were reported to **MantisBT**. All team is working together on the project in MantisBT. We add comments, informations about reproduction and other important issues.
 
 Previously, before merge with ProteGO Safe, the testing project was based on application Safe Safe. It is the reason why the name of project in MantisBT is different.
 
-### [Naviko - social habit tracker](https://play.google.com/store/apps/details?id=app.naviko&hl=pl)
-Bugs reported for mobile application Naviko - social habit tracker are uploaded above as a file 'Bug Reports - Naviko - social habit tracker.pdf'.
+* [Bugs reported for mobile application Naviko - social habit tracker](https://drive.google.com/file/d/1sQDjFO4chLuCdAcFEWPvR9CPCmPoAaIo/view?usp=sharing)
 
-All team is working using Trello board. It's a place where we report bugs, add comments, suggestions and other valuable information during the testing process.
+All team is working using **Trello board**. It's a place where we report bugs, add comments, suggestions and other valuable information during the testing process.
 
 
 
