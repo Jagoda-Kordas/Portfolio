@@ -1,26 +1,27 @@
 # Portfolio
 **My Tester's Portfolio.**
 
-This is the place where I add information about my skills, achievements, work results. I upload here created documentations and projects in which I am participate.
+This is the place where I publish information about my skills, achievements and work results. Files shared in my portfolio will help illustrate my knowledge and experience.
 
-I would like to keep all topic related to software testing in one place.
 
 I hope this place will be my Tester showcase, which will develop together with me :) 
-If you have any advice or observations for my work, please leave me the feedback. I will appreciate it very much.
+If you have any advice or observations for my work, please leave me the feedback. I will appreciate it.
 
 
 
 ## About me
 For 3 years I've been running my own business based on Virtual Reality and I've been organizing VR zones for events. I would like to develop my company about creating VR and AR applications. I am just working on it. IT and new technologies are very close to me that's why I decided to develop in this field. 
 
-Continuous development of my skills, broadening competences and learning new things are definitely my main goals related to developing in the IT industry. I decided to become a tester because I care about quality of products and I would like to make an contribution in developing better software. I am very meticulous person and I care about details which is helpful in testing. I am an absolvent of the course 'Tester manualny' in Coders Lab school. Despite my small experience, I can state that testing is what develops and satisfies me.
+Continuous development of my skills, broadening competences and learning new things are definitely my main goals related to developing in the IT industry. I decided to become a tester because I care about quality of products and I would like to make an contribution in developing better software. I am very meticulous person and I care about details which is helpful in testing. I am an absolvent of the course 'Tester manualny' in Coders Lab School. I can state that testing is what develops and satisfies me.
 
 Currently I am taking part in 3 testing projects conducting by [Cherry-IT](http://cherry-it.pl/). I am doing exploratory tests for below applications:
 * ProteGO Safe
 * WHO - MyHealth
 * Naviko Crowdtesting
 
-I am looking for a place where I can develop as a tester. I am ready for new challenges.
+Moreover I am active  on the uTest platform. 
+
+I am currently looking for job opportunities that will enable me to develop as a Tester. I am ready for new challenges.
 
 ## Bug reports
 
