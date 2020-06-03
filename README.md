@@ -32,7 +32,7 @@ Bugs were reported to MantisBT. All team is working together on one project in M
 Previously, before merge with ProteGO Safe, the testing project was based on application Safe Safe. It is the reason why the name of project in MantisBT is different.
 
 ### [Naviko - social habit tracker](https://play.google.com/store/apps/details?id=app.naviko&hl=pl)
-Bugs reported for mobile application Naviko - social habit tracker are uploaded above as a file[Bug Reports - Naviko - social habit tracker.pdf].
+Bugs reported for mobile application Naviko - social habit tracker are uploaded above as a file 'Bug Reports - Naviko - social habit tracker.pdf'.
 
 All team is working using Trello board. It's a place where we report bugs, add comments, suggestions and other valuable information during the testing process.
 
