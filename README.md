@@ -17,10 +17,11 @@ Continuous development of my skills and broadening competences are definitely my
 I am currently looking for job opportunities that will enable me to develop as a Tester. I am ready for new challenges.
 
 ## Projects
-Currently I am taking part in 3 testing projects conducting by [Cherry-IT](http://cherry-it.pl/). I am doing exploratory tests for below applications:
+Currently I am taking part in 4 testing projects conducting by [Cherry-IT](http://cherry-it.pl/). I am doing exploratory tests for below applications:
 * ProteGO Safe
 * WHO - MyHealth
 * Naviko Crowdtesting
+* Taekwordo
 
 Moreover I am active on the uTest platform. 
 
