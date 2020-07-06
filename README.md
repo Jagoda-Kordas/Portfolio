@@ -14,14 +14,32 @@ I’ve been developing as a Tester. Continuous development, learning new skills 
 
 Continuous development of my skills and broadening competences are definitely my main goals related to developing in the IT industry. I decided to become a tester because I care about quality of products and I would like to make an contribution in developing better software. I am very meticulous person and I care about details which is helpful in testing. I am an absolvent of the course 'Tester manualny' in Coders Lab School. I can state that testing is what develops and satisfies me.
 
+I am currently looking for job opportunities that will enable me to develop as a Tester. I am ready for new challenges.
+
+## Projects
 Currently I am taking part in 3 testing projects conducting by [Cherry-IT](http://cherry-it.pl/). I am doing exploratory tests for below applications:
 * ProteGO Safe
 * WHO - MyHealth
 * Naviko Crowdtesting
 
-Moreover I am active  on the uTest platform. 
+Moreover I am active on the uTest platform. 
 
-I am currently looking for job opportunities that will enable me to develop as a Tester. I am ready for new challenges.
+## Trainings and certificates
+* **[ISTQB Certificate Foundation Level](https://drive.google.com/file/d/1BVXTENwwOU1G-3KEW4weLdKVKMzKrA_i/view?usp=sharing)**
+* **[Coders Lab Szkoła IT - Manual Tester](https://drive.google.com/file/d/1mgxPwrTAYT06EFsOd1vrLeWnf1U85yL6/view?usp=sharing)**
+
+## Tools and technologies
+* **Jira, TestLink, MantisBT**
+* **SoapUI**
+* **Postman**
+* **Git**
+* **Trello**
+* **SQL**
+
+## Practical skills
+* Preparing test documentation (defining test plans, test cases, test reports)
+* Bugs reporting and management
+* Working in SCRUM and Waterfall methodology
 
 ## Documentation
 * **[Analysis](https://drive.google.com/file/d/1giQpUc1SB0yaXQoUKSn6QgwhPFaSn5sO/view?usp=sharing)**
