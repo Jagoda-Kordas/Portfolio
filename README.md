@@ -45,7 +45,7 @@ Moreover I am active on the uTest platform.
 ## Documentation
 * **[Analysis](https://drive.google.com/file/d/1giQpUc1SB0yaXQoUKSn6QgwhPFaSn5sO/view?usp=sharing)**
 * **[Test plan](https://drive.google.com/file/d/1mkY2TI3Wjn7Kq_oddpLk1MUBRFJjDmnC/view?usp=sharing)**
-* **[Report](https://drive.google.com/file/d/1R4Q8HvhS2BnDTbke5mW22ZvfW2rQ4ez3/view?usp=sharing)** attachments to the report [My bugs - DONE](https://drive.google.com/file/d/1ji24b1_wIOoklRo5J0TV5_UWLBL2Zkhb/view?usp=sharing), [My bugs - TO DO](https://drive.google.com/file/d/1sQDjFO4chLuCdAcFEWPvR9CPCmPoAaIo/view?usp=sharing)
+* **[Test report](https://drive.google.com/file/d/1R4Q8HvhS2BnDTbke5mW22ZvfW2rQ4ez3/view?usp=sharing)** attachments to the report [My bugs - DONE](https://drive.google.com/file/d/1ji24b1_wIOoklRo5J0TV5_UWLBL2Zkhb/view?usp=sharing), [My bugs - TO DO](https://drive.google.com/file/d/1sQDjFO4chLuCdAcFEWPvR9CPCmPoAaIo/view?usp=sharing)
 * **[Bugs reported for mobile aplication ProteGO Safe.](https://quac.org/projects/SafeSafe/Mantis/print_all_bug_page_word.php?search=&sort=last_updated&dir=ASC&type_page=html&export=-1&show_flag=0&filter=5f02dd51ced45)**
 
 Bugs were reported to **MantisBT**. All team is working together on the project in MantisBT. We add comments, informations about reproduction and other important issues.
