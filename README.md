@@ -38,10 +38,11 @@ Moreover I am active on the uTest platform.
 * **Trello**
 * **XMind**
 
-
 ## Practical skills
+* Exploratory testing of web-based and mobile applications
+* Validating system functionality
 * Preparing test documentation (defining test plans, test cases, test reports)
-* Bugs reporting and management
+* Reporting and management of bugs
 * Working in SCRUM and Waterfall methodology
 
 ## Documentation
