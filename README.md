@@ -30,12 +30,14 @@ Moreover I am active on the uTest platform.
 * **[Coders Lab Szkoła IT - Manual Tester](https://drive.google.com/file/d/1mgxPwrTAYT06EFsOd1vrLeWnf1U85yL6/view?usp=sharing)**
 
 ## Tools and technologies
-* **Jira, TestLink, MantisBT**
+* **Jira, TestRail, TestLink, MantisBT**
 * **SoapUI**
 * **Postman**
 * **Git**
-* **Trello**
 * **SQL**
+* **Trello**
+* **XMind**
+
 
 ## Practical skills
 * Preparing test documentation (defining test plans, test cases, test reports)
@@ -43,16 +45,17 @@ Moreover I am active on the uTest platform.
 * Working in SCRUM and Waterfall methodology
 
 ## Documentation
-* **[Analysis](https://drive.google.com/file/d/1giQpUc1SB0yaXQoUKSn6QgwhPFaSn5sO/view?usp=sharing)**
-* **[Test plan](https://drive.google.com/file/d/1mkY2TI3Wjn7Kq_oddpLk1MUBRFJjDmnC/view?usp=sharing)**
-* **[Test report](https://drive.google.com/file/d/1R4Q8HvhS2BnDTbke5mW22ZvfW2rQ4ez3/view?usp=sharing)** attachments to the report [My bugs - DONE](https://drive.google.com/file/d/1ji24b1_wIOoklRo5J0TV5_UWLBL2Zkhb/view?usp=sharing), [My bugs - TO DO](https://drive.google.com/file/d/1sQDjFO4chLuCdAcFEWPvR9CPCmPoAaIo/view?usp=sharing)
-* **[Bugs reported for mobile aplication ProteGO Safe.](https://quac.org/projects/SafeSafe/Mantis/print_all_bug_page_word.php?search=&sort=last_updated&dir=ASC&type_page=html&export=-1&show_flag=0&filter=5f02dd51ced45)**
+* **[Website analysis - Cherry-IT.pl](https://drive.google.com/file/d/1giQpUc1SB0yaXQoUKSn6QgwhPFaSn5sO/view?usp=sharing)**
+* **[Mind Map - example of registration form](https://drive.google.com/file/d/1szu3_rQfv-mw8KTzs0XV6rV-m-xE1tIS/view?usp=sharing)**
+* **[Test plan - My Store](https://drive.google.com/file/d/1mkY2TI3Wjn7Kq_oddpLk1MUBRFJjDmnC/view?usp=sharing)**
+* **[Test report - My Store](https://drive.google.com/file/d/1R4Q8HvhS2BnDTbke5mW22ZvfW2rQ4ez3/view?usp=sharing)** attachments to the report [My bugs - DONE](https://drive.google.com/file/d/1ji24b1_wIOoklRo5J0TV5_UWLBL2Zkhb/view?usp=sharing), [My bugs - TO DO](https://drive.google.com/file/d/1sQDjFO4chLuCdAcFEWPvR9CPCmPoAaIo/view?usp=sharing)
+* **[Bugs report - mobile aplication ProteGO Safe](https://quac.org/projects/SafeSafe/Mantis/print_all_bug_page_word.php?search=&sort=last_updated&dir=ASC&type_page=html&export=-1&show_flag=0&filter=5f02dd51ced45)**
 
 Bugs were reported to **MantisBT**. All team is working together on the project in MantisBT. We add comments, informations about reproduction and other important issues.
 
 Previously, before merge with ProteGO Safe, the testing project was based on application Safe Safe. It is the reason why the name of project in MantisBT is different.
 
-* **[Bugs reported for mobile application Naviko - social habit tracker](https://drive.google.com/file/d/11ib4y72IxC4fcRUOUjJhEjbItIYL6QuK/view?usp=sharing)**
+* **[Bugs - mobile application Naviko - social habit tracker](https://drive.google.com/file/d/11ib4y72IxC4fcRUOUjJhEjbItIYL6QuK/view?usp=sharing)**
 
 All team is working using **Trello board**. It's a place where we report bugs, add comments, suggestions and other valuable information during the testing process.
 
