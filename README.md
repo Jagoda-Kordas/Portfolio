@@ -50,7 +50,7 @@ Currently I am taking part in 4 testing projects conducting by [Cherry-IT](http:
 * **[Test plan - My Store](https://drive.google.com/file/d/1mkY2TI3Wjn7Kq_oddpLk1MUBRFJjDmnC/view?usp=sharing)**
 * **[Test report - My Store](https://drive.google.com/file/d/1R4Q8HvhS2BnDTbke5mW22ZvfW2rQ4ez3/view?usp=sharing)** attachments to the report [My bugs - DONE](https://drive.google.com/file/d/1ji24b1_wIOoklRo5J0TV5_UWLBL2Zkhb/view?usp=sharing), [My bugs - TO DO](https://drive.google.com/file/d/1sQDjFO4chLuCdAcFEWPvR9CPCmPoAaIo/view?usp=sharing)
 * **[Bugs report - mobile aplication1](https://quac.org/projects/SafeSafe/Mantis/print_all_bug_page_word.php?search=&sort=last_updated&dir=ASC&type_page=html&export=-1&show_flag=0&filter=5f02dd51ced45)**
-* **[Bugs - mobile application2(https://drive.google.com/file/d/11ib4y72IxC4fcRUOUjJhEjbItIYL6QuK/view?usp=sharing)**
+* **[Bugs - mobile application2](https://drive.google.com/file/d/11ib4y72IxC4fcRUOUjJhEjbItIYL6QuK/view?usp=sharing)**
 
 
 
