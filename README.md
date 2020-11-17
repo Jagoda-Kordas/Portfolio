@@ -20,6 +20,8 @@ I am working as a Test Analyst because high quality of developed products is my 
 
 
 ## Projects
+Currently I am working as a Test Analyst in DB Schenker Technology Center whenre I am responsible functional and exploratory testing of complex web application.
+
 I've took part in 4 testing projects conducting by [Cherry-IT](http://cherry-it.pl/) where I was responsible for functional and exploratory testing for below applications:
 * ProteGO Safe
 * WHO - MyHealth
