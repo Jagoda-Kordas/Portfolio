@@ -10,8 +10,11 @@ If you have any advice or observations for my work, please leave me the feedback
 ## About me
 I am developing as a Test Analyst. 
 Continuous development of practical skills in the field of QA are highly important for me.
+
 I have an experience in functional and exploratory testing for web and mobile applications in SCRUM projects. I am familiar with all testing activities within the full Software Development Life Cycle.
+
 I am learning test automatization based on Selenium Webdriver / JUnit / JAVA / Maven/ Framework and it's my main professional goal for the coming years.
+
 I am very meticulous person and work that requires focus on a detail and perseverance gives me a lot of satisfaction. Working in a diverse team, with both technical and non-technical people, makes me happy.
 I am working as a Test Analyst because high quality of developed products is my priority. 
 
