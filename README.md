@@ -13,14 +13,14 @@ Continuous development of practical skills in the field of QA are highly importa
 
 I have an experience in functional and exploratory testing for web and mobile applications in SCRUM projects. I am familiar with all testing activities within the full Software Development Life Cycle.
 
-I am learning test automatization based on Selenium Webdriver / JUnit / JAVA / Maven/ Framework and it's my main professional goal for the coming years.
+I am learning test automation based on Selenium Webdriver / JUnit / JAVA / Maven/ Framework and it's my main professional goal for the coming years.
 
 I am very meticulous person and work that requires focus on a detail and perseverance gives me a lot of satisfaction. Working in a diverse team, with both technical and non-technical people, makes me happy.
 I am working as a Test Analyst because high quality of developed products is my priority. 
 
 
 ## Projects
-Currently I am working as a Test Analyst in DB Schenker Technology Center where I am responsible functional and exploratory testing of complex web application where I am practicing test automatization.
+Currently I am working as a Test Analyst in DB Schenker Technology Center. I am responsible for functional and exploratory testing of complex web application and I am practicing test automation.
 
 I've took part in 4 testing projects conducting by [Cherry-IT](http://cherry-it.pl/) where I was responsible for functional and exploratory testing for below applications:
 * ProteGO Safe
@@ -34,9 +34,10 @@ I've took part in 4 testing projects conducting by [Cherry-IT](http://cherry-it.
 
 ## Tools and technologies
 * **Atlassian Jira, Confluence, TestFlo, TestRail, TestLink, MantisBT**
+* **IntelliJ IDEA**
 * **SoapUI**
 * **Postman**
-* **Swagger UI*
+* **Swagger UI**
 * **Git**
 * **SQL**
 * **Trello**
@@ -44,6 +45,7 @@ I've took part in 4 testing projects conducting by [Cherry-IT](http://cherry-it.
 
 ## Practical skills
 * Exploratory testing of web-based and mobile applications
+* Executing Automation Tests - learning
 * Validating system functionality
 * Preparing test documentation (defining test plans, test cases, test reports)
 * Reporting and management of bugs
